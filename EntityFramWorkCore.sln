@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29721.120
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFramWorkCore", "EntityFramWorkCore\EntityFramWorkCore.csproj", "{AF05CD04-1642-45B3-AACB-E407D73887D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFDataAccessLayer", "EFDataAccessLayer\EFDataAccessLayer.csproj", "{16788D49-7AC6-4F33-92EA-7965596CE112}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF05CD04-1642-45B3-AACB-E407D73887D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF05CD04-1642-45B3-AACB-E407D73887D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF05CD04-1642-45B3-AACB-E407D73887D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF05CD04-1642-45B3-AACB-E407D73887D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16788D49-7AC6-4F33-92EA-7965596CE112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16788D49-7AC6-4F33-92EA-7965596CE112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16788D49-7AC6-4F33-92EA-7965596CE112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16788D49-7AC6-4F33-92EA-7965596CE112}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CADF3EDA-7F89-426C-AA10-AB192CAFA0BD}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\EntityFramWorkCore\EFDataAccessLayer\bin\Debug\netstandard2.1\EFDataAccessLayer.deps.json
+C:\Users\ASUS\source\repos\EntityFramWorkCore\EFDataAccessLayer\bin\Debug\netstandard2.1\EFDataAccessLayer.dll
+C:\Users\ASUS\source\repos\EntityFramWorkCore\EFDataAccessLayer\bin\Debug\netstandard2.1\EFDataAccessLayer.pdb
+C:\Users\ASUS\source\repos\EntityFramWorkCore\EFDataAccessLayer\obj\Debug\netstandard2.1\EFDataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\EntityFramWorkCore\EFDataAccessLayer\obj\Debug\netstandard2.1\EFDataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\EntityFramWorkCore\EFDataAccessLayer\obj\Debug\netstandard2.1\EFDataAccessLayer.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\EntityFramWorkCore\EFDataAccessLayer\obj\Debug\netstandard2.1\EFDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\EntityFramWorkCore\EFDataAccessLayer\obj\Debug\netstandard2.1\EFDataAccessLayer.dll
+C:\Users\ASUS\source\repos\EntityFramWorkCore\EFDataAccessLayer\obj\Debug\netstandard2.1\EFDataAccessLayer.pdb
+C:\Users\ASUS\source\repos\EntityFramWorkCore\EFDataAccessLayer\obj\Debug\netstandard2.1\EFDataAccessLayer.csproj.AssemblyReference.cache
